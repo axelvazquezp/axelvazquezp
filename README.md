@@ -2,7 +2,8 @@
 
 ### 👨‍💻 Data Analyst apasionado por transformar datos en decisiones estratégicas de negocio
 
-Me especializo en el análisis exploratorio de datos (EDA), ingeniería de datos con Python, optimización de pipelines transaccionales mediante SQL y diseño de sistemas de Business Intelligence en Tableau y Power BI. Mi enfoque está centrado en traducir métricas técnicas en insights financieros y operativos de alto impacto para la toma de decisiones corporativas.
+Data Analyst con formación en Contaduría y experiencia en análisis financiero, especializado en transformar datos en información estratégica mediante Python, SQL y herramientas de Business Intelligence. Interesado en resolver problemas de negocio a través del análisis de datos, la visualización y el storytelling.
+Mi enfoque está centrado en traducir métricas técnicas en insights financieros y operativos de alto impacto para la toma de decisiones corporativas.
 
 ---
 
